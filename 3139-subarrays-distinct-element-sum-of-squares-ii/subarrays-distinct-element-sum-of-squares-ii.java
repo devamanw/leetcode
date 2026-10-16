@@ -22,11 +22,10 @@ class Solution {
         for (int r = 0; r < n; r++) {
             int prev = last[nums[r]];
 
-            // Increase distinct counts for this range
+        
             update(1, 0, n - 1, prev + 1, r);
 
-            // Sum of squared distinct counts of subarrays
-            // ending at r
+           
             ans = (ans + sq[1]) % MOD;
 
             last[nums[r]] = r;
