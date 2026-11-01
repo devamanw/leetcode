@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
