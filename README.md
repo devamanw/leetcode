@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
+## Sorting
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
