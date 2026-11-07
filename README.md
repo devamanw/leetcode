@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1882-process-tasks-using-servers](https://github.com/devamanw/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
