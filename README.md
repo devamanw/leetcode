@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1882-process-tasks-using-servers](https://github.com/devamanw/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+## Matrix
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
