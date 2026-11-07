@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1882-process-tasks-using-servers](https://github.com/devamanw/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/devamanw/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devamanw/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
