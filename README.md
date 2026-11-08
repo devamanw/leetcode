@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 ## Geometry
 |  |
 | ------- |
@@ -160,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/devamanw/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Binary Search
+|  |
+| ------- |
+| [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 <!---LeetCode Topics End-->
