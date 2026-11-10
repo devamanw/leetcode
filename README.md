@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
+| [3693-climbing-stairs-ii](https://github.com/devamanw/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/devamanw/leetcode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/devamanw/leetcode/tree/master/0091-decode-ways) |
+| [3693-climbing-stairs-ii](https://github.com/devamanw/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
