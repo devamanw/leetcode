@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/devamanw/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devamanw/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3693-climbing-stairs-ii](https://github.com/devamanw/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devamanw/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -104,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -179,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devamanw/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
