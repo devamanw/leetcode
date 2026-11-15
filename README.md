@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1267-count-servers-that-communicate](https://github.com/devamanw/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devamanw/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1882-process-tasks-using-servers](https://github.com/devamanw/leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/devamanw/leetcode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/devamanw/leetcode/tree/master/0091-decode-ways) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/devamanw/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/devamanw/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2748-number-of-beautiful-pairs](https://github.com/devamanw/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
@@ -194,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/devamanw/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
