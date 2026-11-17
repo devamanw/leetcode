@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/devamanw/leetcode/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devamanw/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devamanw/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devamanw/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devamanw/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devamanw/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/devamanw/leetcode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/devamanw/leetcode/tree/master/0091-decode-ways) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devamanw/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/devamanw/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devamanw/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devamanw/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Breadth-First Search
 |  |
 | ------- |
