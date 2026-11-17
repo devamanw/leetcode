@@ -1,17 +1,13 @@
-
-import java.util.*;
-
 class Solution {
     public int minimumChanges(String s, int k) {
 
         int n = s.length();
         int INF = 1_000_000_000;
 
-        // cost[i][j] = minimum changes to make s[i...j]
-        // a semi-palindrome
+   
         int[][] cost = new int[n][n];
 
-        // Step 1: Precompute semi-palindrome costs
+   
         for (int i = 0; i < n; i++) {
 
             for (int j = i + 1; j < n; j++) {
@@ -19,7 +15,7 @@ class Solution {
                 int len = j - i + 1;
                 int minCost = INF;
 
-                // Try every valid divisor
+              
                 for (int d = 1; d < len; d++) {
 
                     if (len % d != 0) {
