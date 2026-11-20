@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devamanw/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devamanw/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devamanw/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/devamanw/leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/devamanw/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3605-minimum-stability-factor-of-array](https://github.com/devamanw/leetcode/tree/master/3605-minimum-stability-factor-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/devamanw/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/devamanw/leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/devamanw/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devamanw/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sorting
