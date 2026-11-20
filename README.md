@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devamanw/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/devamanw/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1267-count-servers-that-communicate](https://github.com/devamanw/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devamanw/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/devamanw/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devamanw/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devamanw/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/devamanw/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devamanw/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devamanw/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devamanw/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
